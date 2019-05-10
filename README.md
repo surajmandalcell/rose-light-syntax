@@ -1,6 +1,8 @@
-# Rose Syntax theme
+# 🌹 Rose Light Syntax
 
 Atom theme using the rose color scheme 
+
+[Install](https://atom.io/packages/rose-light-syntax) or search for 'rose-light-syntax' in extension store
 
 ![](https://raw.githubusercontent.com/surajmandalcell/rose-light-syntax/master/preview.png)
   
