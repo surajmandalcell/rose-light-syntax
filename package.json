@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "0.0.1",
   "description": "A light syntax theme using the colors that are asthetically pleasing",
-  "repository": "https://github.com/atom/solarized-light-syntax",
+  "repository": "https://github.com/surajmandalcell/rose-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
