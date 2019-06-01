@@ -1,0 +1,5 @@
+# This file is for me to remember basic stuff as I forget stuff more than often
+
+To publish :
+   cd to project folder
+   apm publish minor
